@@ -1,0 +1,5 @@
+# Authorises Google AdMob to sell ad inventory in apps published by Gully.
+# Buyers fetch this file from the developer website on the App Store listing
+# and will not bid without it. The last field is Google's certification
+# authority ID, which is the same for every publisher.
+google.com, pub-9903708672981684, DIRECT, f08c47fec0942fa0
